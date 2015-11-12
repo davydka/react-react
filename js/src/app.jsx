@@ -1,7 +1,7 @@
 var React = require('react');
 var Firebase = require('firebase');
 
-var fbRef = new Firebase("https://<firebase-server>.firebaseio.com/");
+var fbRef = new Firebase("https://react-react.firebaseio.com/");
 
 
 var Hello = React.createClass({
